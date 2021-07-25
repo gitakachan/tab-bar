@@ -1,6 +1,6 @@
 <template>
   <div class="tab-bar">
-    <slot></slot>
+    <slot name="items"></slot>
   </div>
 </template>
 <script>
